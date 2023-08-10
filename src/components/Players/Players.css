@@ -1,0 +1,29 @@
+.players{
+    width: 300px;
+    height: 520px;
+    position: relative;
+    border-radius: 8px;
+    border: 1px solid #95A0A7
+}
+.players img{
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 8px 7px;
+}
+
+.players-name{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015rem;
+    color: lawngreen;
+}
+
+.player-info{
+    margin-left: 14px;
+}

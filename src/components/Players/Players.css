@@ -21,9 +21,23 @@
     font-size: 21px;
     line-height: 25px;
     letter-spacing: 0.0015rem;
-    color: lawngreen;
+    color:#c0c0c09f;
 }
 
 .player-info{
     margin-left: 14px;
+}
+
+.cart-btn{
+    width: 100%;
+    border-radius: 0px 0px 8px 8px;
+    border: 1px solid #95A0A7;
+    background:#ffe1b3;
+    color: #0e131a;
+    position: absolute;
+    bottom:0;
+}
+
+.cart-btn:hover{
+    background-color: rgb(0, 119, 255);
 }

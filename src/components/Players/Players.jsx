@@ -12,8 +12,8 @@ const Players = (props) => {
                 <p>Country: {country}</p>
                 <p>Ratings: {ratings}star</p>
 
-
             </div>
+            <button className='cart-btn'>Buy</button>
         </div>
     );
 };

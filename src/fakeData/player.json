@@ -1,0 +1,101 @@
+[
+    {
+      "id": "64d504a16dc16a8c242d368a",
+      "name": "Jamal Vuiya",
+      "gender": "female",
+      "img": "our captain.jpg",
+      "price": "$3,984.34",
+      "age": 36,
+      "club": "GEEKETRON",
+      "country": "ULTRASURE",
+      "ratings": 5
+    },
+    {
+      "id": "64d504a1fb54333128eaf323",
+      "name": "Messi",
+      "gender": "female",
+      "img": "http://placehold.it/32x32",
+      "price": "$3,365.14",
+      "age": 33,
+      "club": "XLEEN",
+      "country": "ZAGGLES",
+      "ratings": 5
+    },
+    {
+      "id": "64d504a1f36ac69f62527a34",
+      "name": "Neymar",
+      "gender": "male",
+      "img": "http://placehold.it/32x32",
+      "price": "$1,281.53",
+      "age": 21,
+      "club": "BUZZMAKER",
+      "country": "MICROLUXE",
+      "ratings": 5
+    },
+    {
+      "id": "64d504a18df84e03f3bbc815",
+      "name": "Ronaldo",
+      "gender": "male",
+      "img": "http://placehold.it/32x32",
+      "price": "$1,577.30",
+      "age": 24,
+      "club": "ATOMICA",
+      "country": "JETSILK",
+      "ratings": 5
+    },
+    {
+      "id": "64d504a1b98c88c8107e2e5c",
+      "name": "Sadio Mane",
+      "gender": "female",
+      "img": "http://placehold.it/32x32",
+      "price": "$1,053.98",
+      "age": 37,
+      "club": "COMVEYOR",
+      "country": "FANFARE",
+      "ratings": 5
+    },
+    {
+      "id": "64d504a1c441321f2a1d6e21",
+      "name": "Robin Shelton",
+      "gender": "female",
+      "img": "http://placehold.it/32x32",
+      "price": "$2,570.32",
+      "age": 21,
+      "club": "COMVERGES",
+      "country": "VANTAGE",
+      "ratings": 5
+    },
+    {
+      "id": "64d504a1f7f3047a9b018c58",
+      "name": "Ozil",
+      "gender": "male",
+      "img": "http://placehold.it/32x32",
+      "price": "$3,187.34",
+      "age": 37,
+      "club": "FARMAGE",
+      "country": "CYCLONICA",
+      "ratings": 5
+    },
+    {
+      "id": "64d504a116844d35d10537b7",
+      "name": "Essie Rosales",
+      "gender": "female",
+      "img": "http://placehold.it/32x32",
+      "price": "$3,198.35",
+      "age": 40,
+      "club": "VOIPA",
+      "country": "OMNIGOG",
+      "ratings": 5
+    },
+    {
+      "id": "64d504a1b83097ee9e5f4be6",
+      "name": "Adeline Jenkins",
+      "gender": "female",
+      "img": "http://placehold.it/32x32",
+      "price": "$1,866.29",
+      "age": 36,
+      "club": "ZILLA",
+      "country": "FIBRODYNE",
+      "ratings": 5
+    }
+  ]
